@@ -8,9 +8,20 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+
 == Description ==
 
 Ideas is an extremely simple way to manage ideas in your WordPress admin.
+
+I used to just use WordPress' default "Draft" feature to manage post ideas, plugin ideas, etc. But I was always afraid I'd accidenally publish a draft, and the drafts are included right within the rest of the posts.
+
+It's a messy solution, and far from ideal.
+
+"Ideas" is a step in the right direction, a super simple post type I've been using for a while to keep my ideas separate from my content and media. 
+
+I made a plugin for myself so I didn't have to re-write the post type every time I set up a new site, and also so that my Ideas post type was theme-agnostic.
+
+This is that plugin, and I've got lots of plans to make it better!
 
 
 == Installation ==
