@@ -1,6 +1,6 @@
 === Ideas ===
-Contributors: heyitsgeorge
-Donate link: http://heyitsgeorge.com/donate
+Contributors: czief
+Donate link: http://czief.co/donate
 Tags: ideas, simple, post type, to-do, admin
 Requires at least: 3.2
 Tested up to: 3.4
